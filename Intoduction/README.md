@@ -65,4 +65,4 @@ Outliers: []
 - **Bar Chart**: A bar chart visualizing the values of each category in the dataset.
 - **Histogram**: A histogram showing the frequency distribution of the data points.
 
-![visual output](Intoduction/main.py)
+![visual output](https://github.com/theHesari/progress/blob/main/Intoduction/dataAnalysisPlots.png)
