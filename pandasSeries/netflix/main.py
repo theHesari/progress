@@ -29,4 +29,4 @@ pair_counts = pairs_exploded['actor_pairs'].value_counts().reset_index()
 pair_counts.columns = ['Actor Pair', 'Count']
 
 # Save the top 10 most frequent actor pairs as csv
-pair_counts.head(10).to_csv('outputs/netflix_actor_pairs_frequency.csv', index=False)
+# pair_counts.head(10).to_csv('outputs/netflix_actor_pairs_frequency.csv', index=False)
